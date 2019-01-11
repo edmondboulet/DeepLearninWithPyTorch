@@ -4,7 +4,9 @@ A git designed to share a test project regarding Pytorch approach of Deep Learni
 # Custom Data.ipynb
 
 This notebook is the most basic NN made with PyTorch.
-It load data found in "/home/ebouletg/3IMA/DL_master/Jupyther_notebook/PPC2/Train" as Training sample.
+
+It loads data found in "/home/ebouletg/3IMA/DL_master/Jupyther_notebook/PPC2/Train" as Training sample.
+
 And the one in "/home/ebouletg/3IMA/DL_master/Jupyther_notebook/PPC2/Test" as Test sample.
 
 The current size of the picture was set to 32*32 because of the hardware that was available to me.
